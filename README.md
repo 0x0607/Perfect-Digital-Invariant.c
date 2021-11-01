@@ -1,2 +1,1 @@
-# Perfect-Digital-Invariant.c
-Perfect-Digital-Invariant
+# 完全數字不變數(無大數Max65536版)
